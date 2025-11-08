@@ -1,7 +1,7 @@
 <!-- Your title -->
 ## Hello! I'm Letícia ツ
 
-👩🏻‍💻 I’m currently working as a business analyst, focused on collecting, processing and analyzing data;
+👩🏻‍💻 I’m currently working as a data analyst, focused on collecting, processing and analyzing data;
 
 🌱 I'm currently learning data science and python programming;
 
@@ -11,15 +11,8 @@
 
 💬 Feel free to contact me and find out more about my studies and work!
 
-[![Gmail Badge](https://img.shields.io/badge/-leticiamwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticiamwork@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouralet/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/letindata)
-
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mouralet)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mouralet)
-
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/mouraalet)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mouraalet)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaam/)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/letindata)
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
@@ -49,22 +42,10 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 
 <p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/mouralet/mouralet.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/letindata/letindata.svg" />
 </p>-->
 
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.paypal.com/donate/?business=J7RS2QRSUP5CJ&no_recurring=0&currency_code=BRL" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
- <!-- <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
-  </a>-->
-</p>
 
  
 
